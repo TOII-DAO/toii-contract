@@ -70,7 +70,7 @@ function _update(address from, address to, uint256 value) internal virtual overr
 ### 4. Token Economics
 
 **✅ Reasonable:**
-- Total supply: 10,000,000,000,000 tokens
+- Total supply: 1,000,000,000,000 tokens
 - Decimals: 18 (ERC20 standard)
 - Transfer fee: 0-10% (adjustable)
 

@@ -7,7 +7,7 @@ ERC20 token with transfer fee functionality and upgradeable pattern.
 - **Name:** ToiiNetwork
 - **Symbol:** Toii
 - **Decimals:** 18
-- **Total Supply:** 10,000,000,000,000 tokens (10 trillion)
+- **Total Supply:** 1,000,000,000,000 tokens (1 trillion)
 - **Networks:** Ethereum, Arbitrum, Sepolia
 
 ## 🚀 Deployment
