@@ -8,7 +8,7 @@ import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 
 contract ToiiNetwork is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeable, OwnableUpgradeable {
     uint8 public constant DECIMALS = 18;
-    uint256 public constant MAX_SUPPLY = 10_000_000_000_000 * 10 ** DECIMALS;
+    uint256 public constant MAX_SUPPLY = 1_000_000_000_000 * 10 ** DECIMALS;
 
     uint256 public transferFee;
     mapping(address => bool) public isExcludedFromFee;

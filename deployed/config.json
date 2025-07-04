@@ -1,8 +1,8 @@
 {
   "sepolia": {
-    "ToiiNetworkBeacon": "0x0c773Ea8238645aEc02d0BBf7B2894d816361139",
-    "ToiiNetworkProxy": "0x936C7cE878e6A4377930F9122439D90F8F243081",
-    "ToiiNetworkImplementation": "0x48802017300849131AD64ff00CcfFb117363160C",
+    "ToiiNetworkBeacon": "0x5c217Ec1100a33bFe605f356701D5Cd66f0E2DE9",
+    "ToiiNetworkProxy": "0x13578385f9e8e699b9dB25085F1AE69Af37aA7E4",
+    "ToiiNetworkImplementation": "0x38C2aC769c86Ae0196f6E3eAF1dbb96819eF5178",
     "ToiiNetworkBeaconOwner": "0x1c69f6575Ed1dD1EAbc38c1d31ba790f90174241"
   }
 }
